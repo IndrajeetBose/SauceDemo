@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12820" started-at="2020-12-06T22:45:09 IST" finished-at="2020-12-06T22:45:22 IST">
+    <groups>
+    </groups>
+    <test name="Swag Labs Login Test" duration-ms="12820" started-at="2020-12-06T22:45:09 IST" finished-at="2020-12-06T22:45:22 IST">
+      <class name="com.sauceLabs.testScripts.SwagLabsLoginTest">
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.sauceLabs.testScripts.SwagLabsLoginTest@33c7e1bb]" name="setUpTest" is-config="true" duration-ms="7035" started-at="2020-12-06T22:45:09 IST" finished-at="2020-12-06T22:45:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyLoginPageTitle()[pri:1, instance:com.sauceLabs.testScripts.SwagLabsLoginTest@33c7e1bb]" name="verifyLoginPageTitle" duration-ms="548" started-at="2020-12-06T22:45:16 IST" finished-at="2020-12-06T22:45:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitle -->
+        <test-method status="PASS" signature="verifyLoginFunctionalityNegativeValidations()[pri:2, instance:com.sauceLabs.testScripts.SwagLabsLoginTest@33c7e1bb]" name="verifyLoginFunctionalityNegativeValidations" duration-ms="884" started-at="2020-12-06T22:45:17 IST" finished-at="2020-12-06T22:45:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFunctionalityNegativeValidations -->
+        <test-method status="PASS" signature="loginToSwagLabs()[pri:3, instance:com.sauceLabs.testScripts.SwagLabsLoginTest@33c7e1bb]" name="loginToSwagLabs" duration-ms="969" started-at="2020-12-06T22:45:18 IST" finished-at="2020-12-06T22:45:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSwagLabs -->
+        <test-method status="PASS" signature="validateHamBurgerMenuOptions()[pri:4, instance:com.sauceLabs.testScripts.SwagLabsLoginTest@33c7e1bb]" name="validateHamBurgerMenuOptions" duration-ms="930" started-at="2020-12-06T22:45:19 IST" finished-at="2020-12-06T22:45:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHamBurgerMenuOptions -->
+        <test-method status="PASS" signature="addToCartAndValidate()[pri:5, instance:com.sauceLabs.testScripts.SwagLabsLoginTest@33c7e1bb]" name="addToCartAndValidate" duration-ms="1703" started-at="2020-12-06T22:45:19 IST" finished-at="2020-12-06T22:45:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartAndValidate -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sauceLabs.testScripts.SwagLabsLoginTest@33c7e1bb]" name="tearDown" is-config="true" duration-ms="716" started-at="2020-12-06T22:45:21 IST" finished-at="2020-12-06T22:45:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauceLabs.testScripts.SwagLabsLoginTest -->
+    </test> <!-- Swag Labs Login Test -->
+  </suite> <!-- Suite -->
+</testng-results>

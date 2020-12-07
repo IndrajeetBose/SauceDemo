@@ -1,0 +1,14 @@
+<suite name="Suite">
+
+	<listeners>
+		<listener class-name="com.sauceLabs.reports.ExtentReporterNG" />
+	</listeners>
+	<test name="Swag Labs Login Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.sauceLabs.testScripts.SwagLabsLoginTest" />
+		</classes>
+	</test>
+
+
+</suite>

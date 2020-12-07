@@ -1,0 +1,8 @@
+com\sauceLabs\applicationPages\LoginPage.class
+com\sauceLabs\applicationPages\YourCart.class
+com\sauceLabs\pages\BaseTest.class
+com\sauceLabs\applicationPages\SwaglabsHome.class
+com\sauceLabs\testScripts\SwagLabsLoginTest.class
+com\sauceLabs\pages\Page.class
+com\sauceLabs\pages\BasePage.class
+com\sauceLabs\reports\ExtentReporterNG.class
